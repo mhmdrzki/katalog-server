@@ -7,4 +7,6 @@
 # Links
 + localhost/katalog-server/api/mobil
 
+nb: belajar membuat api pertama kali
+
  
